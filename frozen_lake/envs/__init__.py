@@ -1,0 +1,2 @@
+from frozen_lake.envs.frozen_lake_env import FrozenLakeEnv
+from frozen_lake.envs.frozen_lake_large_env import FrozenLakeLargeEnv
